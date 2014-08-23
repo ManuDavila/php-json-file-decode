@@ -2,11 +2,11 @@
 
 /**
 * Author: ManuDavila
-* Github: https://github.com/ManuDavila/json-file-reader
+* Github: https://github.com/ManuDavila/php-json-file-decode
 * Website: http://jquery-manual.blogspot.com
 **/
 
-class json_file_reader {
+class json_file_decode {
  
     public function json($json)
 	{
