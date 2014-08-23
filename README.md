@@ -1,4 +1,4 @@
-json-file-reader
+php-json-file-decode
 ================
 
 <div>
@@ -10,8 +10,8 @@ It can read a given file and parse its contents in JSON format.
 The class returns the parsed value after having decoded any UTF-8 encoded characters.</h5>
 <h3>Use: </h3>
 <pre>
-$reader = new json_file_reader();
-$json = $reader->json("images.json");
+$read = new json_file_decode();
+$json = $read->json("images.json");
 print_r($json);
 </pre>
 <br>
