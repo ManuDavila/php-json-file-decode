@@ -16,7 +16,7 @@ print_r($json);
 </pre>
 <br>
 <br>
-<a href="https://github.com/ManuDavila/json-file-reader" target="_blank"><strong>Github</strong></a> | <a href="http://www.phpclasses.org/browse/author/1255792.html" target="_blank"><strong>phpclasses.org</strong></a>
+<a href="https://github.com/ManuDavila/php-json-file-decode" target="_blank"><strong>Github</strong></a> | <a href="http://www.phpclasses.org/browse/author/1255792.html" target="_blank"><strong>phpclasses.org</strong></a>
 <br>
 <br>
 </div>
