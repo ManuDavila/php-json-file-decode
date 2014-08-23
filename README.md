@@ -2,7 +2,7 @@ json-file-reader
 ================
 
 <div>
-<h1>php json file reader:</h1>
+<h1>PHP JSON File Decode:</h1>
 <h5>This class can parse JSON encoded values read from files.
 
 It can read a given file and parse its contents in JSON format.
